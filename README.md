@@ -1,6 +1,6 @@
 # PvZ_Fusion_Flie
 
-There is no game or modifier because the web page cannot upload files larger than 25MB
+There is no game or modifier body because the webpage cannot upload files larger than 25MB.
 
 # Credit
 - [蓝飘飘fly](https://space.bilibili.com/3546619314178489)
